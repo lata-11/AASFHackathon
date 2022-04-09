@@ -1,6 +1,7 @@
-.title-content
+
+.container-fluid1
 {
-    background-color: green;
+    background-color: #2F4F4F;
 }
 .Navigation-bar
 {
@@ -9,4 +10,40 @@
 .Navigation-item
 {
     margin: 0% 5%;
+}
+.content
+{
+    padding: 10% 0%;
+}
+
+.part-content1
+{
+    position: fixed;
+    margin-left: 5%;
+}
+.part-content2
+{
+    position: fixed;
+    margin-left: 65%;
+}
+.part-content3
+{
+    margin-left: 30%;
+}
+.images
+{
+    border-radius: 100%;
+    width: 30px;
+}
+.dp
+{
+    position: relatives;
+}
+.dp1
+{
+    border-radius: 100%;
+}
+.dp-heading
+{
+    margin: auto;
 }
