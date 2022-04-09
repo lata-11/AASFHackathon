@@ -13,23 +13,33 @@
 }
 .content
 {
-    padding: 10% 0%;
+    padding: 5% 0%;
 }
 
 .part-content1
 {
+    display: inline-block;
+    width: auto;
+    margin: 0% 3%;
     position: fixed;
-    margin-left: 5%;
+    
+    
+}
+.icon
+{
+    color: green;
 }
 .part-content2
 {
     position: fixed;
-    margin-left: 65%;
+    right: 5%;
 }
 .part-content3
 {
-    margin-left: 30%;
+    position: relative;
+    left: 20%;
 }
+
 .images
 {
     border-radius: 100%;
@@ -42,8 +52,4 @@
 .dp1
 {
     border-radius: 100%;
-}
-.dp-heading
-{
-    margin: auto;
 }
